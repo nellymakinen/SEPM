@@ -102,6 +102,5 @@ pip install pillow tkinter
 
 ---
 
-Now your **Clock UI Module is fully documented**! 🚀 Let me know if you need **any modifications**! 🎯
 
 
